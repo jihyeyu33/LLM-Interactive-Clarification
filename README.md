@@ -63,19 +63,19 @@ Google Colab 환경에서 전체 파이프라인과 **Gradio 기반 챗봇 인�
 
 ## 👥 Authors & Context
 
-이 연구는 한양대학교 정보시스템학과에서 수행되었습니다.
+이 연구는 한양대학교 정보시스템학과에서 학위 졸업 논문 프로젝트로 수행되었습니다.
 
-* **저자 (Authors)**:
+**저자 (Authors)**:
 * **유지혜** (Jihye Yu)
 * **김다연** (Dayeon Kim)
 
 
-* **지도교수 (Advisor)**:
+**지도교수 (Advisor)**:
 * **김은찬 교수** (Prof. Eunchan Kim, Dept. of Information Systems, Hanyang University)
 
 
-* **연구 분야**: Large Language Models (LLM), Human-AI Interaction (HAI), HCI
-* **연구 기간**: 2025.08 - 2025.12
+**연구 분야**: Large Language Models (LLM), Human-AI Interaction (HAI), HCI
+**연구 기간**: 2025.08 - 2025.12
 
 ## 📝 Citation
 
