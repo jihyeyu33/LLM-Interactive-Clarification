@@ -1,5 +1,6 @@
 # Enhancing Query Understanding in LLMs via Ambiguity Classification and Clarification Question Generation
 
+
 > **모호성 유형 분류와 DPO 기반 질문 생성을 통한 LLM의 쿼리 이해능력 강화**
 
 본 리포지토리는 거대 언어 모델(LLM)이 사용자 쿼리의 모호성을 능동적으로 식별하고, 명확화 질문(Clarification Question)을 생성하여 해소하는 **2단계 다중 에이전트 시스템**의 공식 구현 코드를 포함하고 있습니다. 모든 코드는 학습 과정의 시각화와 단계별 참조가 용이하도록 **Jupyter Notebook (.ipynb)** 형식으로 제공됩니다.
@@ -12,7 +13,8 @@
 
 ## 💻 Interactive Demo
 
-Google Colab 환경에서 전체 파이프라인과 **Gradio 기반 챗봇 인터페이스**를 직접 실행해 볼 수 있습니다. 아래 배지를 클릭하여 데모를 확인해 보세요.
+Google Colab 환경에서 전체 파이프라인과 **Gradio 기반 챗봇 인터페이스**를 직접 실행해 볼 수 있습니다. 아래 배지를 클릭하여 데모를 확인해 보세요.  
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jihyeyu33/LLM-Interactive-Clarification/blob/main/04_demo/01_ambiguity_classification_demo.ipynb)
 
 * **참고**: 데모 실행을 위해서는 GPU 환경이 권장됩니다.
