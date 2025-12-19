@@ -46,13 +46,13 @@ Google Colab 환경에서 전체 파이프라인과 **Gradio 기반 챗봇 인�
 ### Usage Guide
 
 1. **Data Preparation**: `00_dataset` 폴더에서 학습에 사용된 `.jsonl` 및 `.csv` 형식의 데이터셋을 확인할 수 있습니다.
-2. **Ambiguity Classification**: `01_classification` 폴더에서 분류 모델(LoRA)을 학습시킵니다.
+2. **Ambiguity Classification**: `01_classification` 폴더에서 모호성 유형 분류 모델(LoRA)을 학습시킵니다.
 3. **Question Generation**:
-* `02_question_generation_sft`: 기본 SFT 모델을 학습합니다.
+* `02_question_generation_sft`: 명확화 질문 생성을 위한 기본 SFT 모델을 학습합니다.
 * `03_question_generation_dpo`: SFT 모델을 기반으로 DPO 정렬을 수행합니다.
 
 
-4. **Evaluation**: `05_evaluation` 폴더에서 LLM-as-a-judge 방식 등을 통해 성능을 평가합니다.
+4. **Evaluation**: `04_evaluation` 폴더에서 각 모델과 전체 시스템의 성능을 평가합니다.
 
 ## 📊 Performance
 
@@ -74,7 +74,8 @@ Google Colab 환경에서 전체 파이프라인과 **Gradio 기반 챗봇 인�
 * **김은찬 교수** (Prof. Eunchan Kim, Dept. of Information Systems, Hanyang University)
 
 
-**연구 분야**: Large Language Models (LLM), Human-AI Interaction (HAI), HCI
+**연구 분야**: Large Language Models (LLM), Human-AI Interaction (HAI), HCI  
+
 **연구 기간**: 2025.08 - 2025.12
 
 ## 📝 Citation
