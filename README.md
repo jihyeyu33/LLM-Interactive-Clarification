@@ -15,7 +15,7 @@
 
 Google Colab 환경에서 전체 파이프라인과 **Gradio 기반 챗봇 인터페이스**를 직접 실행해 볼 수 있습니다. 아래 배지를 클릭하여 데모를 확인해 보세요.  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jihyeyu33/LLM-Interactive-Clarification/blob/main/04_demo/01_ambiguity_classification_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13cgcAa2IRXAB30g09C2yDmTec5-MSdOK?usp=sharing)
 
 * **참고**: 데모 실행을 위해서는 GPU 환경이 권장됩니다.
 * 노트북 내의 셀을 순서대로 실행하면 Gradio Web UI가 실행됩니다.
